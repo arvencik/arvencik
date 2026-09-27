@@ -6,14 +6,14 @@
 <br/>
 
 <!-- Social Badges -->
-<a href="https://instagram.com/arvenxyz" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://discord.com/users/arvenxyz" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-<a href="https://github.com/arvenxyzz" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://instagram.com/wortexfx" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://discord.com/users/wortexfx" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+<a href="https://github.com/wortexfx" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 
 <br/>
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=arvenxyzz&style=flat-square&color=blue" alt="visitors" />
+<img src="https://komarev.com/ghpvc/?username=wortexfx&style=flat-square&color=blue" alt="visitors" />
 
 </div>
 
@@ -25,10 +25,10 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arvenxyzz&layout=compact&theme=tokyonight&hide_border=true&locale=tr" alt="Top Langs" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wortexfx&layout=compact&theme=tokyonight&hide_border=true&locale=tr" alt="Top Langs" />
     </td>
     <td width="50%">
-      Hi! Ben <b>Arven</b>. 21 yaşında, 1.92 boyunda bir geliştiriciyim. 🚀 <br/><br/>
+      Hi! Ben <b>Wortex</b>. 21 yaşında, 1.92 boyunda bir geliştiriciyim. 🚀 <br/><br/>
       Özellikle <b>Swift</b> ile iOS dünyasında ve modern <b>Frontend</b> teknolojileriyle web dünyasında harikalar yaratmayı seviyorum. Tasarım odaklı, kullanıcı deneyimini ön planda tutan projeler geliştiriyorum.
     </td>
   </tr>
@@ -58,14 +58,14 @@
 ### 📊 GitHub İstatistikleri
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arvenxyzz&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arvenxyzz&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wortexfx&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wortexfx&theme=tokyonight&hide_border=true" height="180" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arvenxyzz&radius=16&theme=tokyonight&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wortexfx&radius=16&theme=tokyonight&area=true&hide_border=true" width="100%" />
 </div>
 
 ---
@@ -74,7 +74,7 @@
 
 <div align="center">
   <p>Bir projeniz mi var? Ya da sadece selam vermek mi istiyorsunuz?</p>
-  <a href="https://discord.com/users/arvenxyz">
+  <a href="https://discord.com/users/wortexfx">
     <img src="https://img.shields.io/badge/Discord'dan_Yaz-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </div>
