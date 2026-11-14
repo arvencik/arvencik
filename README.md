@@ -12,11 +12,13 @@
 
 <br>
 
+<p>
 <a href="https://bioaura.lol"><img src="https://img.shields.io/badge/BIOAURA-18181B?style=for-the-badge&logo=safari&logoColor=C4F582" alt="Bioaura" height="28"></a>
 <a href="https://instagram.com/arven.xyz"><img src="https://img.shields.io/badge/INSTAGRAM-18181B?style=for-the-badge&logo=instagram&logoColor=E8A2BA" alt="Instagram · arven.xyz" height="28"></a>
 <a href="https://github.com/arvencik?tab=repositories"><img src="https://img.shields.io/badge/PROJELER-18181B?style=for-the-badge&logo=github&logoColor=C4B5FD" alt="GitHub projelerim" height="28"></a>
+</p>
 
-<p><sub>Discord &nbsp; <code>arvenfx</code></sub></p>
+<p><sub>Discord &nbsp; <code>arvenfx</code> &nbsp; · &nbsp; Micup &nbsp; <code>arven</code></sub></p>
 
 <br>
 
@@ -34,20 +36,16 @@ Selam, ben **Arven**. 19 yaşındayım. Swift ile iOS uygulamaları, modern fron
 
 <table>
 <tr>
-<td width="33%" valign="top">
-<sub>01 / MOBİL</sub>
-<h3>Swift & iOS</h3>
-<p>Apple ekosisteminde doğal hissettiren uygulamalar.</p>
-</td>
-<td width="33%" valign="top">
-<sub>02 / WEB</sub>
-<h3>Frontend</h3>
-<p>Farklı ekranlara uyum sağlayan, akıcı arayüzler.</p>
-</td>
-<td width="33%" valign="top">
-<sub>03 / TASARIM</sub>
-<h3>UI / UX</h3>
-<p>Figma'dan koda; düzen, etkileşim ve görsel detaylar.</p>
+<td width="28%"><sub>01 / MOBİL</sub><br><b>Swift & iOS</b></td>
+<td>Apple ekosisteminde doğal hissettiren uygulamalar.</td>
+</tr>
+<tr>
+<td><sub>02 / WEB</sub><br><b>Frontend</b></td>
+<td>Farklı ekranlara uyum sağlayan, akıcı arayüzler.</td>
+</tr>
+<tr>
+<td><sub>03 / TASARIM</sub><br><b>UI / UX</b></td>
+<td>Figma'dan koda; düzen, etkileşim ve görsel detaylar.
 </td>
 </tr>
 </table>
@@ -85,9 +83,9 @@ Selam, ben **Arven**. 19 yaşındayım. Swift ile iOS uygulamaları, modern fron
 <a href="https://instagram.com/arven.xyz"><b>Instagram ↗</b></a>
 &nbsp;&nbsp; · &nbsp;&nbsp;
 <a href="https://bioaura.lol"><b>bioaura.lol ↗</b></a>
-&nbsp;&nbsp; · &nbsp;&nbsp;
-<b>Discord:</b> <code>arvenfx</code>
 </p>
+
+<p><b>Discord</b> &nbsp; <code>arvenfx</code> &nbsp;&nbsp; · &nbsp;&nbsp; <b>Micup</b> &nbsp; <code>arven</code></p>
 
 <br>
 
