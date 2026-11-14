@@ -1,81 +1,98 @@
 <div align="center">
 
-<!-- Typing Effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Swift+Developer;Frontend+Enthusiast;UI%2FUX+Designer;Building+the+future..." alt="Typing SVG" />
+<br>
 
-<br/>
+<samp>DEVELOPER & DESIGNER</samp>
 
-<!-- Social Badges -->
-<a href="https://instagram.com/arven.xyz" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://discord.com/users/arvenfx" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-<a href="https://github.com/arvencik" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<h1>arven.</h1>
 
-<br/>
-<br/>
+<p><b>Swift &nbsp; / &nbsp; Frontend &nbsp; / &nbsp; UI·UX</b></p>
 
-<img src="https://komarev.com/ghpvc/?username=arvencik&style=flat-square&color=blue" alt="visitors" />
+<p>iOS uygulamaları, web arayüzleri ve üzerinde düşünülmüş detaylar.</p>
+
+<br>
+
+<a href="https://bioaura.lol"><img src="https://img.shields.io/badge/BIOAURA-18181B?style=for-the-badge&logo=safari&logoColor=C4F582" alt="Bioaura" height="28"></a>
+<a href="https://instagram.com/arven.xyz"><img src="https://img.shields.io/badge/INSTAGRAM-18181B?style=for-the-badge&logo=instagram&logoColor=E8A2BA" alt="Instagram · arven.xyz" height="28"></a>
+<a href="https://github.com/arvencik?tab=repositories"><img src="https://img.shields.io/badge/PROJELER-18181B?style=for-the-badge&logo=github&logoColor=C4B5FD" alt="GitHub projelerim" height="28"></a>
+
+<p><sub>Discord &nbsp; <code>arvenfx</code></sub></p>
+
+<br>
 
 </div>
 
 ---
 
-### 💫 Hakkımda
+### Biraz benden
 
-<div align="center">
+Selam, ben **Arven**. 19 yaşındayım. Swift ile iOS uygulamaları, modern frontend teknolojileriyle web arayüzleri geliştiriyorum. Tasarım tarafıyla da en az kod kadar ilgileniyorum; iyi bir arayüzün hissini veren küçük detaylarla uğraşmayı seviyorum.
+
+Şu sıralar **[Bioaura](https://bioaura.lol)** üzerinde çalışıyorum.
+
+<br>
+
 <table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arvencik&layout=compact&theme=tokyonight&hide_border=true&locale=tr" alt="Top Langs" />
-    </td>
-    <td width="50%">
-      Hi! Ben <b>Arven</b>. 19 yaşında, 1.92 boyunda bir geliştiriciyim. 🚀 <br/><br/>
-      Özellikle <b>Swift</b> ile iOS dünyasında ve modern <b>Frontend</b> teknolojileriyle web dünyasında harikalar yaratmayı seviyorum. Tasarım odaklı, kullanıcı deneyimini ön planda tutan projeler geliştiriyorum.
-    </td>
-  </tr>
+<tr>
+<td width="33%" valign="top">
+<sub>01 / MOBİL</sub>
+<h3>Swift & iOS</h3>
+<p>Apple ekosisteminde doğal hissettiren uygulamalar.</p>
+</td>
+<td width="33%" valign="top">
+<sub>02 / WEB</sub>
+<h3>Frontend</h3>
+<p>Farklı ekranlara uyum sağlayan, akıcı arayüzler.</p>
+</td>
+<td width="33%" valign="top">
+<sub>03 / TASARIM</sub>
+<h3>UI / UX</h3>
+<p>Figma'dan koda; düzen, etkileşim ve görsel detaylar.</p>
+</td>
+</tr>
 </table>
-</div>
+
+<br>
+
+### Kullandıklarım
+
+<p><sub>UYGULAMA & FRONTEND</sub></p>
+<p>
+<img src="https://skillicons.dev/icons?i=swift,apple,js,ts,vue,html,css&theme=dark&perline=7" alt="Swift, Apple, JavaScript, TypeScript, Vue, HTML, CSS" height="44">
+</p>
+
+<p><sub>BACKEND & ARAÇLAR</sub></p>
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb,ruby,git&theme=dark&perline=5" alt="Node.js, MySQL, MongoDB, Ruby, Git" height="44">
+</p>
+
+<p><sub>TASARIM</sub></p>
+<p>
+<img src="https://skillicons.dev/icons?i=figma,ps,ai&theme=dark&perline=3" alt="Figma, Photoshop, Illustrator" height="44">
+</p>
+
+<br>
 
 ---
 
-### 🛠️ Teknolojik Yetenekler
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=swift,apple,js,ts,vue,nodejs,mysql,mongodb,ruby,html,css,git,figma,ps,ai&perline=8&theme=dark" />
+
+<h3>Bir fikrin varsa konuşalım.</h3>
+
+<p>Birlikte çalışmak ya da selam vermek için ulaşabilirsin.</p>
+
+<p>
+<a href="https://instagram.com/arven.xyz"><b>Instagram ↗</b></a>
+&nbsp;&nbsp; · &nbsp;&nbsp;
+<a href="https://bioaura.lol"><b>bioaura.lol ↗</b></a>
+&nbsp;&nbsp; · &nbsp;&nbsp;
+<b>Discord:</b> <code>arvenfx</code>
+</p>
+
+<br>
+
+<samp>arvencik / code & design</samp>
+
+<br><br>
+
 </div>
-
-<br/>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
-</div>
-
----
-
-### 📊 GitHub İstatistikleri
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arvencik&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arvencik&theme=tokyonight&hide_border=true" height="180" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arvencik&radius=16&theme=tokyonight&area=true&hide_border=true" width="100%" />
-</div>
-
----
-
-### 🤝 İletişim
-
-<div align="center">
-  <p>Bir projeniz mi var? Ya da sadece selam vermek mi istiyorsunuz?</p>
-  <a href="https://discord.com/users/arvenfx">
-    <img src="https://img.shields.io/badge/Discord'dan_Yaz-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-</div>
-
